@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">lab2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="checkbox1">ФІОТ</string>
+    <string name="checkbox2">ТЕФ</string>
+    <string name="checkbox3">ІХФ</string>
+    <string name="buttom1">OK</string>
+    <string name="textview1">На якому факультеті ви навчаєтесь?</string>
+    <string name="textview">TextView</string>
+</resources>

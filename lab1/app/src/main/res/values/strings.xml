@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="checkbox2">ТЕФ</string>
+    <string name="checkbox1">ІХФ</string>
+    <string name="checkbox3">ФІОТ</string>
+    <string name="textview1">На якому факультеті навчаєтесь?</string>
+    <string name="buttom1">ОК</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="checkboxTEF">ТЕФ</string>
+    <string name="checkbox1">ІХФ</string>
+    <string name="checkbox3">ФІОТ</string>
+    <string name="textview1">На якому факультеті навчаєтесь?</string>
+    <string name="textviewOpen"></string>
+    <string name="buttom1">ОК</string>
+    <string name="buttomRead">ВІДКРИТИ</string>
+    <string name="buttomWrite">ЗБЕРЕГТИ</string>
+</resources>
